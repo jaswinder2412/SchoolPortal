@@ -1,0 +1,2 @@
+date 7/21/2015
+created a plugin in wordpress and insert the data into the database through the plugin form..
